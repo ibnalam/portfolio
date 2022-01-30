@@ -1,0 +1,45 @@
+/*----global classes ---*/
+
+.title-text {
+    font: normal bold 50px/72px var(--roboto);
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+
+.site-buttons {
+    padding-left: 22%;
+}
+
+
+.btn {
+    padding: .8rem 2.2rem;
+    padding-left: 14%;
+    font: normal 500 16px/20px var(--roboto);
+    position: relative;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+
+.btn .btn-outline-primary {
+    background: var(--gradient-color);
+    background-clip: padding-box;
+    color: whitesmoke;
+    transition: background.6s ease;
+    box-shadow: var(--box-shadow);
+}
+
+/*---about area-----*/
+
+p.para {
+    color: var(--text-color);
+    font: normal 500 16px/25px var(--roboto);
+
+}
+
+
+
+
+
